@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Classic Burger Recipe</title>
+</head>
+<body>
+
+    <h1>Classic Burger Recipe</h1>
+
+    <p>
+        This classic burger recipe is easy to make and perfect for lunch or dinner.
+        It features a juicy beef patty, fresh vegetables, and a soft burger bun.
+    </p>
+
+    <img
+        src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"
+        alt="A delicious homemade burger"
+    >
+
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>1 burger bun</li>
+        <li>150g ground beef</li>
+        <li>1 slice cheddar cheese</li>
+        <li>Lettuce leaves</li>
+        <li>Tomato slices</li>
+        <li>1 tablespoon ketchup</li>
+    </ul>
+
+    <h2>Instructions</h2>
+
+    <ol>
+        <li>Season the ground beef and shape it into a patty.</li>
+        <li>Cook the patty on a hot grill or pan until fully cooked.</li>
+        <li>Place the cheese on top of the patty and let it melt.</li>
+        <li>Toast the burger bun lightly.</li>
+        <li>Add lettuce, tomato, and the cooked patty to the bun.</li>
+        <li>Spread ketchup and serve immediately.</li>
+    </ol>
+
+</body>
+</html>
