@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>how to write a prompt</h1>
+        <p>A good prompt should be **clear, specific, and direct**. Start by saying what you want the AI to do, then provide the important details, requirements, and desired style or format. The more specific your instructions are, the more accurate and useful the AI’s response will be.
+</p>
+        <section>
+            <h2>video 1</h2>
+            <p>
+                A good prompt should be **clear, specific, and direct**. Start by saying what you want the AI to do, then provide the important details, requirements, and desired style or format. The more specific your instructions are, the more accurate and useful the AI’s response will be.
+
+            </p>
+            <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/P08jrZhyNxw"
+            title="How to Write a Prompt">
+            </iframe>
+        </section>
+
+        <section>
+            <h2>video 2</h2>
+            <p>A good prompt should be **clear, specific, and direct**. Start by saying what you want the AI to do, then provide the important details, requirements, and desired style or format. The more specific your instructions are, the more accurate and useful the AI’s response will be.</p>
+            <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/P08jrZhyNxw"
+            title="How to Write a Prompt">
+            </iframe>
+        </section>
+
+        <section>
+            <h2>video 3</h2>
+            <p>A good prompt should be **clear, specific, and direct**. Start by saying what you want the AI to do, then provide the important details, requirements, and desired style or format. The more specific your instructions are, the more accurate and useful the AI’s response will be.</p>
+            <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/P08jrZhyNxw"
+            title="How to Write a Prompt">
+            </iframe>
+        </section>
+        
+    </main>
+
+</body>
+
+</html>
