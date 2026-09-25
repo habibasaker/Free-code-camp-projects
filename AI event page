@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+        </nav>
+    
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg">
+
+                <h3>AI Future Summit 2026</h3>
+                <p>join industry experts, researchers, and students for a day dedicated to the latest developments in Artificial Intelligence. Explore machine learning, generative AI, AI agents, computer vision, and real-world AI applications through keynote sessions, workshops, and networking opportunities.</p>
+
+            </article>
+             <article>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg">
+                <h3>Generative AI Bootcamp 2026</h3>
+                <p>A one-day intensive bootcamp designed for students and beginners who want to learn how Generative AI works and how to build AI-powered applications. Participants will gain practical experience with modern AI tools and real-world projects.</p>
+
+            </article>
+        </section >
+
+        <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="this is an image">
+            <h3>AI Innovation Conference 2026</h3>
+            <p>Discover how Artificial Intelligence is transforming industries around the world. This conference brings together AI enthusiasts, developers, students, and industry leaders to discuss emerging trends, innovative applications, and future opportunities in AI.</p>
+        </article>
+         <article>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"alt="this is an image">
+            <h3>AI for Healthcare Summit 2026</h3>
+            <p>Explore how Artificial Intelligence is improving healthcare through smarter diagnosis, medical imaging, patient monitoring, and predictive analytics. This event brings together healthcare professionals, AI specialists, and students interested in the future of medical technology.</p>
+        </article>
+
+        </section>
+    </main>
+
+</body>
+
+</html>
